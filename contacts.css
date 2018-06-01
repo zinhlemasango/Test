@@ -1,0 +1,89 @@
+.nav{
+    height: 100;
+    background-color:palevioletred;
+    
+    
+    
+    }
+    
+    
+    .nav ul li{
+    
+        color:black;
+        display:inline;
+        margin-left: 20px;
+        border:1px solid;
+    
+    }
+    
+    h1{
+    
+    text-align:center;
+    
+    }
+    table,th,td{
+    
+    
+        border:5px solid blue(0, 128, 6);
+        
+    }
+    
+    
+    table{
+    
+    margin:auto;
+    width:50%;
+    border:1px solid;
+    justify-content: center;
+    text-align: center;
+    }
+    
+    .div1 p{
+    width:200px;
+    height:200px ;
+    text-align: center;
+    background-color:green;
+    
+    }
+    
+    .div1{
+    margin:auto;
+    width:50;
+    
+    
+    }
+    
+    
+    footer{
+    
+    
+    border: 1px groove;
+    background:blue;
+    color:white;
+    bottom:0px;
+    width:100%;
+    position:fixed;
+    vertical-align:middle;
+    text-align:centre;
+    line-height:normal;
+    padding:0;
+    
+    }
+    
+    #center {
+    text-align:center;
+    justify-content:center;
+    }
+    
+    
+    
+    
+    #border{
+    position: absolute;
+    top: 0;
+    bottom:0;
+    left:0;
+    right: 0;
+    margin:auto;
+    
+    
